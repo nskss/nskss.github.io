@@ -1,9 +1,6 @@
----
----
-
-@import "{{ site.theme }}";
-
+logo: /assets/img/logo.png
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
 title: Nasr's homepage
 description: Bookmark this to keep an eye on my project updates!
-
