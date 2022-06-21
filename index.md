@@ -8,12 +8,13 @@ I have had experience in the trio of: research, teaching, and industrial setting
 
 The gist of it, I spent 40% of my experience doing R&D, 30% in managerial and/or product development roles, 30% doing teaching.
 
+<!-- 
 # Product Development + Managerial
 
 PD
 
-## R&D
+# R&D
 
 R&D
-### Education
-
+# Education
+ -->
