@@ -1,3 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 theme: jekyll-theme-minimal
 title: Nasr's homepage
 description: Bookmark this to keep an eye on my project updates!
+
