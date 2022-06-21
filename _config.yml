@@ -1,6 +1,6 @@
 logo: /assets/img/logo.png
 show_downloads: true
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-minimal
 title: Nasr Kasrin
 
